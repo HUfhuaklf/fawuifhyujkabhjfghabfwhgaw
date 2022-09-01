@@ -1,0 +1,7 @@
+{
+  "dependencies": {
+    "@fortune-inc/tw-voucher": "^1.0.9",
+    "axios": "^0.27.2",
+    "ws": "^8.8.1"
+  }
+}
